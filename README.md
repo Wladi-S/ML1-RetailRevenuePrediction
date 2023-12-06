@@ -1,8 +1,8 @@
-# ML_RetailRevenue
+# RetailRevenuePrediction
 
 ### Die Verzeichnisstruktur sieht wie folgt aus: 
 ```
-ML_RetailRevenue/
+RetailRevenuePrediction/
 ├── data
 │   ├── raw                 <- Der ursprüngliche, unveränderliche Datendump.
 │   ├── interim             <- Vorläufig verarbeitete Daten.

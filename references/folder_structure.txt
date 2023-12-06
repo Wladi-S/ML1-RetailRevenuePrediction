@@ -1,4 +1,4 @@
-ML_RetailRevenue/
+RetailRevenuePrediction/
 ├── data
 │   ├── raw                 <- Der ursprüngliche, unveränderliche Datendump.
 │   ├── interim             <- Vorläufig verarbeitete Daten.
