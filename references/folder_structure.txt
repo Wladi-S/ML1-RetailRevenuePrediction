@@ -1,7 +1,3 @@
-# ML_RetailRevenue
-
-### Die Verzeichnisstruktur sieht wie folgt aus: 
-```
 ML_RetailRevenue/
 ├── data
 │   ├── raw                 <- Der ursprüngliche, unveränderliche Datendump.
@@ -23,5 +19,3 @@ ML_RetailRevenue/
 ├── LICENSE
 ├── README
 └── requirements.txt
-
-```
