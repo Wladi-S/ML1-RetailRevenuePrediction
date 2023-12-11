@@ -1,0 +1,21 @@
+dmml1_train.csv
+• Store ID - eine eindeutige Kennung für jedes Geschäft
+• Sales - der Umsatz für einen bestimmten Tag (das ist das, was Sie vorhersagen sollen)
+• Customers - die Anzahl der Kunden an einem bestimmten Tag (ist im Voraus natürlich nicht bekannt)
+• Open - ein Indikator dafür, ob der Laden geöffnet war: 0 = geschlossen, 1 = geöffnet
+• StateHoliday - gibt einen gesetzlichen Feiertag an. Normalerweise sind alle Geschäfte, mit wenigen Ausnahmen, an gesetzlichen Feiertagen geschlossen. 
+        a = Feiertag, b = Ostern, c = Weihnachten, 0 = kein Feiertag
+• SchoolHoliday - gibt an, ob im Bereich des Geschäfts an dem betreffenden Datum Schulferien waren
+
+dmml1_stores.csv
+• StoreType - unterscheidet zwischen 4 verschiedenen Ladenmodellen: a, b, c, d
+• Assortment - beschreibt eine Sortimentsstufe: 
+        a = basic, b = extra, c = extended
+• CompetitionDistance - Entfernung in Metern zum nächstgelegenen Konkurrenzmarkt
+• CompetitionOpenSince[Month/Year] - gibt das ungefähre Jahr und den Monat an, in dem der nächstgelegene Konkurrenzmarkt eröffnet wurde
+• Promo - gibt an, ob ein Geschäft an diesem Tag eine Werbeaktion durchführt
+• Promo2 - Promo2 ist eine fortlaufende und aufeinanderfolgende Werbeaktion für einige Geschäfte: 
+        0 = Geschäft nimmt nicht teil, 1 = Geschäft nimmt teil
+• Promo2Seit[ Jahr/Woche] - beschreibt das Jahr und die Kalenderwoche, in der die Filiale mit der Teilnahme an Promo2 begonnen hat
+• PromoInterval - beschreibt die aufeinanderfolgenden Intervalle, in denen Promo2 gestartet wird, wobei die Monate genannt werden, in denen die Aktion neu gestartet wird. 
+        Z.B. "Feb,May,Aug,Nov"bedeutet, dass jede Runde im Februar, Mai, August, November eines jeden Jahres beginnt.
