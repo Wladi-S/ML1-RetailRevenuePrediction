@@ -3,7 +3,6 @@
 ## Projektübersicht
 Im Rahmen des Semesterprojekts für das Modul "Data Mining & Grundlagen Maschinelles Lernen 1" widmen wir uns einer praxisnahen Aufgabe – der Umsatzvorhersage für eine große Supermarktkette in Deutschland. Unser Ziel ist es, ein zuverlässiges Vorhersagemodell zu entwickeln, das auf Basis historischer Daten und verschiedener Einflussfaktoren den erwarteten Tagesumsatz jeder Filiale prognostiziert. Eine genaue Vorhersage ermöglicht es den Filialleitungen, die Anzahl der Mitarbeiterinnen und Mitarbeiter optimal zu planen und so die Kundenzufriedenheit zu maximieren, während gleichzeitig die Personalkosten minimiert werden.
 
-
 ### Die Verzeichnisstruktur sieht wie folgt aus: 
 ```
 RetailRevenuePrediction/
@@ -29,3 +28,11 @@ RetailRevenuePrediction/
 └── requirements.txt
 
 ```
+
+## Nutzung
+Um dieses Projekt auszuführen:
+```bash
+pip install -r requirements.txt
+```
+
+Weitere Details zum [Notebook des Machine Learning Model](notebooks/RentalPrediction.ipynb) finden Sie in den jeweiligen Dateien und in der Dokumentation & [Aufgabenstellung](references/DMML1_Projekt_WS23.pdf) .
