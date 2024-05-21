@@ -1,7 +1,7 @@
 # RetailRevenuePrediction
 
 ## Projektübersicht
-Im Rahmen des Semesterprojekts für das Modul "Data Mining & Grundlagen Maschinelles Lernen 1" widmen wir uns einer praxisnahen Aufgabe – der Umsatzvorhersage für eine große Supermarktkette in Deutschland. Unser Ziel ist es, ein zuverlässiges Vorhersagemodell zu entwickeln, das auf Basis historischer Daten und verschiedener Einflussfaktoren den erwarteten Tagesumsatz jeder Filiale prognostiziert. Eine genaue Vorhersage ermöglicht es den Filialleitungen, die Anzahl der Mitarbeiterinnen und Mitarbeiter optimal zu planen und so die Kundenzufriedenheit zu maximieren, während gleichzeitig die Personalkosten minimiert werden.
+Im Semesterprojekt des Moduls "Data Mining & Grundlagen Maschinelles Lernen 1" entwickeln wir ein Modell zur Umsatzvorhersage für eine deutsche Supermarktkette, um Filialleitungen durch präzise Prognosen bei der Personalplanung zu unterstützen und die Kundenzufriedenheit sowie Kosteneffizienz zu verbessern.
 
 ### Die Verzeichnisstruktur sieht wie folgt aus: 
 ```
